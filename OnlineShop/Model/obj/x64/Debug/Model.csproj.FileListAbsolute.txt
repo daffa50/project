@@ -1,0 +1,9 @@
+E:\Project_asp.net\OnlineShop\Model\bin\x64\Debug\Model.dll.config
+E:\Project_asp.net\OnlineShop\Model\bin\x64\Debug\Model.dll
+E:\Project_asp.net\OnlineShop\Model\bin\x64\Debug\Model.pdb
+E:\Project_asp.net\OnlineShop\Model\bin\x64\Debug\EntityFramework.dll
+E:\Project_asp.net\OnlineShop\Model\bin\x64\Debug\EntityFramework.SqlServer.dll
+E:\Project_asp.net\OnlineShop\Model\bin\x64\Debug\EntityFramework.xml
+E:\Project_asp.net\OnlineShop\Model\bin\x64\Debug\EntityFramework.SqlServer.xml
+E:\Project_asp.net\OnlineShop\Model\obj\x64\Debug\Model.dll
+E:\Project_asp.net\OnlineShop\Model\obj\x64\Debug\Model.pdb
